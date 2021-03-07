@@ -1,4 +1,4 @@
-# Welcome to the Knowledge discovery course
+# Welcome to the Knowledge Discovery Course
 
 ## Resources:
 
