@@ -1,2 +1,6 @@
+name: Web Programming Course
+markdown: kramdown
+
+baseurl: "/knowledge-discovery-course"
+url: "https://perceivelab.github.io"
 theme: jekyll-theme-cayman
-title: Knowledge Discovery Course
