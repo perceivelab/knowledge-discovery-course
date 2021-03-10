@@ -1,11 +1,11 @@
-# LEZIONI
-Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del corso di web programming 2021.
+# Lessons
+Here you find all the needed slides, notebooks, code and notes for the knowledge discovery course.
 
 
-| Lezioni    | Argomento                                                       | Data            | Slides                          | Codice      |
-|------------|-----------------------------------------------------------------|-----------------|-------------------------------  |-------------|
-| Introduzione  | Introduzione Corso                                           | 09 Marzo 2021   | [Link](https://bit.ly/2N4n8A7)  |             |
-| Lezione 1  | HTML + CSS                                                      | 09 Marzo 2021   | [Link](https://bit.ly/3kZEKtt)  |             |
+| Lesson | Topic | Date | Slides | Notebooks & Code |
+|---------|-----------|------|--------|------------------|
+| Lesson 1  | Introduction | March 10th 2021 | [Link](https://drive.google.com/file/d/199oxwtoy6haBTXjJoMpx7WIaRSuLINMf/view?usp=sharing) |  |
+|  | Deep Learning Overvie |   | [Link](https://drive.google.com/file/d/1iKZtyCxPs7iI5EMfEPaP35ud5yOWXPeZ/view?usp=sharing) |  |
 
 
 [404]: /web-programming-course/fallback
