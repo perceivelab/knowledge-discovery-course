@@ -5,10 +5,10 @@
 ### Welcome to Knowledge Discovery Course 2021.
 
 
-# Notices
+## Notices
 
 
-# STAFF
+## STAFF
 
 - Concetto Spampinato - *[mail](mailto:concetto.spampinato@unict.it)*
 
