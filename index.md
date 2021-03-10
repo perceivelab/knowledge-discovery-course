@@ -1,6 +1,4 @@
-# Knowledge Discovery 2021
-
-[![logo](/imgs/logo.png)](http://www.dieei.unict.it/corsi/l-8-inf)
+[![logo](/imgs/logo.jpg)](http://www.dei.unict.it/corsi/lm-91)
 
 ### Welcome to Knowledge Discovery Course 2021.
 
