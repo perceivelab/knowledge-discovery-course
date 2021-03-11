@@ -5,7 +5,6 @@ Here you find all the needed slides, notebooks, code and notes for the knowledge
 | Lesson | Topic | Date | Slides | Notebooks & Code |
 |---------|-----------|------|--------|------------------|
 | **Lesson 1**  | Introduction | March 10th 2021 | [Link](https://drive.google.com/file/d/1PrZxICwa4Uj-dUEPZhd-3zOQNfyXmj03/view?usp=sharing) |  |
-|  | Deep Learning Overview |   | [Link](https://drive.google.com/file/d/1Pw-DT7vOfvoyd1FpnGTW5tEKhxsHGvZq/view?usp=sharing) |  |
 |  | Overview of Modern AI |   | [Link](https://drive.google.com/file/d/1ufIwXL9V-UCbczuzddBsF8nRnop6gEVW/view?usp=sharing) |  |
 
 
