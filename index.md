@@ -3,8 +3,9 @@
 ### Welcome to Knowledge Discovery Course 2021.
 
 
-## Notices
+## NEWS
 
+- The course officially started on March 10th 2021
 
 ## STAFF
 
