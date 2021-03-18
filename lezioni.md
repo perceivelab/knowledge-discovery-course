@@ -10,4 +10,4 @@ Here you find all the needed slides, notebooks, code and notes for the knowledge
 | **Lesson 3** | Introduction to Pytorch | March 18th 2021 | [Link][404] | [Link](https://colab.research.google.com/drive/1pkeFPFmqqbmkvEqcflesiJm2h05JQwpM?usp=sharing) |
 
 
-[404]: /knowledge-discovery/fallback
+[404]: /knowledge-discovery-course/fallback
