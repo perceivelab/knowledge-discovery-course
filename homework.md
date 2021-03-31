@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # HOMEWORK
 This page contains the homeworks for the Knowledge Discovery 2021 course
 
