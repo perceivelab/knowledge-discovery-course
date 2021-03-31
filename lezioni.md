@@ -11,6 +11,6 @@ Here you find all the needed slides, notebooks, code and notes for the knowledge
 | **Lesson 5** | MNIST Classification | March 24, 2021 |  | [Link](https://colab.research.google.com/drive/1plsg6GZZe1eSIyRtLSTkE1Z-gc_hCoBC?usp=sharing) |
 | **Lesson 6/7** | Convolutional Neural Networks | March 26-31, 2021 | [Link](https://drive.google.com/file/d/1edIOIJfBG3k-p6EBXmkBwT5Sckzf-bB8/view?usp=sharing) |  |
 | **Lesson 7** | Intro to GitHub | March 31, 2021 | [Link](https://drive.google.com/file/d/16NZEy-1Uo_gZGW-5ooNRh7EU6w-JA9vD/view?usp=sharing) |  |
-|  | Practical CNNs |   | March 31, 2021 | [Link](https://colab.research.google.com/drive/1a56IU6YCnca-Gv7KMwathvM9nF11XUdm?usp=sharing) |
+|  | Practical CNNs | March 31, 2021 | | [Link](https://colab.research.google.com/drive/1a56IU6YCnca-Gv7KMwathvM9nF11XUdm?usp=sharing) |
 
 [404]: /knowledge-discovery-course/fallback
