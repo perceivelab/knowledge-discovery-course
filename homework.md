@@ -5,4 +5,4 @@ This page contains the homeworks for the Knowledge Discovery 2021 course
 | -------- | --------- | ------------ | -------- | -------------- | -------- | ------------- |
 | HW1     | Image Classification | March 31, 2021 | April 16, 2021 | [Link](hw1-2021.md) | [Link][404] | [Link][404] |
 
-[404]: /knowledge-discovery/fallback
+[404]: /knowledge-discovery-course/fallback
