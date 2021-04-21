@@ -14,6 +14,6 @@ Here you find all the needed slides, notebooks, code and notes for the knowledge
 |  | Practical CNNs | March 31, 2021 | | [Link](https://colab.research.google.com/drive/1a56IU6YCnca-Gv7KMwathvM9nF11XUdm?usp=sharing) |
 | **Lesson 8** | Advanced CNNs | April 14, 2021 | [Link](https://drive.google.com/file/d/1zvlK748T4qdn9dZu_Swrf38JQXL_uPkr/view?usp=sharing) |  |
 | **Lesson 9** | Practical Advanced CNNs | April 16, 2021 | | [Link](https://colab.research.google.com/drive/1JsOgLbvp3XqXl5o56aVXZj04VqKt1K0j) |
-| **Lesson 10** | Recurrent Neural Networks | April 16, 2021 |  [Link](https://drive.google.com/file/d/1Z7NznXxciMgW-BbmqTmHci6tWSbAbtKY/view?usp=sharing) | |
+| **Lesson 10** | Recurrent Neural Networks | April 21, 2021 |  [Link](https://drive.google.com/file/d/1Z7NznXxciMgW-BbmqTmHci6tWSbAbtKY/view?usp=sharing) | |
 
 [404]: /knowledge-discovery-course/fallback
