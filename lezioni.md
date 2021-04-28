@@ -17,7 +17,7 @@ Here you find all the needed slides, notebooks, code and notes for the knowledge
 |  | (Complete Notebook) |  |  | [Link](https://drive.google.com/file/d/1bjMPEqdHgDmOwbuThQYy4Roxpi8nNkZo/view?usp=sharing) |
 | **Lesson 10** | Recurrent Neural Networks | April 21, 2021 |  [Link](https://drive.google.com/file/d/1Z7NznXxciMgW-BbmqTmHci6tWSbAbtKY/view?usp=sharing) | |
 | **Lesson 11** | Practical RNNs - part 1 | April 23, 2021 |  | [Link](https://colab.research.google.com/drive/1T7EOoD-xNV74nLEEbv5MYo1ABc75It8n?usp=sharing)  |
-| **Lesson 12** | Practical RNNs - part 2| April 28, 2021 |  | [Link](https://colab.research.google.com/drive/1bdrMmaGWtAJjEvy7pmTXmz_Hc5pab6MY?usp=sharing)  |
+| **Lesson 12** | Practical RNNs - part 2| April 28, 2021 |  | [Link](https://colab.research.google.com/drive/1bdrMmaGWtAJjEvy7pmTXmz_Hc5pab6MY?usp=sharing)  [moes_tavern_lines.txt](https://drive.google.com/file/d/13mSiTXXjMRFKsnu24f9Ro9w50V63NOof/view?usp=sharing) |
 
 
 [404]: /knowledge-discovery-course/fallback
