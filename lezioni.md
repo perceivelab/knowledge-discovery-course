@@ -16,7 +16,7 @@ Here you find all the needed slides, notebooks, code and notes for the knowledge
 | **Lesson 9** | Practical Advanced CNNs | April 16, 2021 | | [Link](https://colab.research.google.com/drive/1JsOgLbvp3XqXl5o56aVXZj04VqKt1K0j) |
 |  | (Complete Notebook) |  |  | [Link](https://drive.google.com/file/d/1bjMPEqdHgDmOwbuThQYy4Roxpi8nNkZo/view?usp=sharing) |
 | **Lesson 10** | Recurrent Neural Networks | April 21, 2021 |  [Link](https://drive.google.com/file/d/1Z7NznXxciMgW-BbmqTmHci6tWSbAbtKY/view?usp=sharing) | |
-| **Lesson 11** | Practical RNNs - part 1 | April 23, 2021 |  | [Link](https://colab.research.google.com/drive/1T7EOoD-xNV74nLEEbv5MYo1ABc75It8n?usp=sharing)  |
+| **Lesson 11** | Practical RNNs - part 1 | April 23, 2021 |  | [Link](https://colab.research.google.com/drive/17gUBMmsw8sSaon9AgkP3MKBtuFiIu5w6?usp=sharing)  |
 | **Lesson 12** | Practical RNNs - part 2| April 28, 2021 |  | [Link](https://colab.research.google.com/drive/1bdrMmaGWtAJjEvy7pmTXmz_Hc5pab6MY?usp=sharing) --- [data](https://drive.google.com/file/d/13mSiTXXjMRFKsnu24f9Ro9w50V63NOof/view?usp=sharing) |
 | **Lesson 13** | Music Generation Homework| April 30, 2021 |  | |
 
