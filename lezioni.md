@@ -19,7 +19,11 @@ Here you find all the needed slides, notebooks, code and notes for the knowledge
 | **Lesson 11** | Practical RNNs - part 1 | April 23, 2021 |  | [Link](https://colab.research.google.com/drive/17gUBMmsw8sSaon9AgkP3MKBtuFiIu5w6?usp=sharing)  |
 | **Lesson 12** | Practical RNNs - part 2| April 28, 2021 |  | [Link](https://colab.research.google.com/drive/1bdrMmaGWtAJjEvy7pmTXmz_Hc5pab6MY?usp=sharing) --- [data](https://drive.google.com/file/d/13mSiTXXjMRFKsnu24f9Ro9w50V63NOof/view?usp=sharing) |
 | **Lesson 13** | Music Generation Homework| April 30, 2021 |  | |
-| **Lesson 14** | Generative Models | May 07, 2021 | [Link](https://drive.google.com/file/d/1El8t_3O8dSH_EO_ZB1jDR1uZe3-aGLfo/view?usp=sharing) |  |
+| **Lesson 14** | Generative Models | May 07-12, 2021 | [Link](https://drive.google.com/file/d/1El8t_3O8dSH_EO_ZB1jDR1uZe3-aGLfo/view?usp=sharing) |  |
+| **Lesson 15** |  | May 19, 2021 |  |  |
+| **Lesson 16** | Seminar by Prof. Caldera (UNIMORE) | May 19, 2021 | [Link](https://drive.google.com/file/d/1El8t_3O8dSH_EO_ZB1jDR1uZe3-aGLfo/view?usp=sharing) |  |
+| **Lesson 17** | Seminar by Dr. Gliozzo (IMB Watson - New York) | May 21, 2021 | [Link](https://drive.google.com/file/d/1El8t_3O8dSH_EO_ZB1jDR1uZe3-aGLfo/view?usp=sharing) |  |
+
 
 
 
