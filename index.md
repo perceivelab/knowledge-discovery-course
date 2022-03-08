@@ -3,7 +3,7 @@
 ### Welcome to Knowledge Discovery Course 2022.
 
 
-# Class schedule
+## CLASS SCHEDULE
 
 | Lezioni A-L     | Lezioni M-Z   |
 | :----------:    | --------------|
@@ -24,7 +24,6 @@
 -->
 
 # ![](https://img.shields.io/badge/-7289DA?style=flat&logo=discord&logoColor=white) FORUM 
-{: #tag}
 During the course we will be using Discord for off-line communication. Discord channel is available at [link](https://discord.gg/wEWMusrE).
 
 
