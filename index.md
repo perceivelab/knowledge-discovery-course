@@ -44,9 +44,15 @@ The (tentative) roadmap of the course homeworks is the following:
 |      | %   |
 | :--------     |    -------: |
 | Homeworks | 55% |
-| Theory Quizz  | 35%  |
+| Theory test  | 35%  |
 | Class attendance| 10% |
 
+- For students not attending the course:
+
+|      | %   |
+| :--------     |    -------: |
+| AI project in Pytorch | 65% |
+| Theory test  | 35%  |
 
 
 
