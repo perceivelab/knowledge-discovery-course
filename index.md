@@ -5,9 +5,10 @@
 
 # Class schedule
 
-| :----------:    |
-| Wednesday 15-17    | 
-| Friday    15-17    | 
+| Lezioni A-L     | Lezioni M-Z   |
+| :----------:    | --------------|
+| Martedì 11-14    | Martedì 11-14  |
+| Giovedì 11-14    | Giovedì 15-18  |
 
 
 
