@@ -27,6 +27,34 @@
 During the course we will be using Discord for off-line communication. Discord channel is available at [link](https://discord.gg/wEWMusrE).
 
 
+# ROADMAP HOMEWORK
+The (tentative) roadmap of the course homeworks is the following:
+
+| Homework | Topic              | Assignment    | Due          |
+| :-------:| ------------------ | --------------- | -------          |
+| MHW1     | HTML + CSS         | Marzo 24, 2022  | Aprile 02, 2022    |
+| MHW2     | Javascript         | Aprile 05, 2022  | Aprile 16, 2022   |
+| MHW3     | REST API           | Aprile 14, 2022 | Aprile 23, 2022   |
+| HW1      | Sito Completo      | Maggio 04, 2022 | Maggio 21, 2022   |
+| HW2      | Porting HW1 in MVC | Maggio 26, 2022 | 10-18 Giugno 2022    |
+
+# VALUTAZIONE
+
+- Studenti che non frequentano il corso (o che sostengono l'esame senza la partecipazione agli HM):
+
+  - Sviluppo di un'applicazione web secondo le seguenti [specifiche][404]
+
+- Studenti che frequentano il corso:
+
+| Elaborato     | Voto Finale   |
+| :--------     |    -------: |
+| 3 mini-homework (da svolgere singolarmente) | 10% |
+| 1 homework su PHP/JS e REST API(da svolgere singolarmente)    | 40%  |
+| 1 homework su LARAVEL (porting homework precedente in Laravel) | 40% |
+| Integrazione ReactJS e NodeJS | 10% |
+
+
+
 ## STAFF
 
 Concetto Spampinato - *[mail](mailto:concetto.spampinato@unict.it)*
