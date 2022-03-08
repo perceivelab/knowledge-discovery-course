@@ -1,7 +1,7 @@
 # Lessons
 Here you find all the needed slides, notebooks, code and notes for the knowledge discovery course.
 
-
+<!--
 | Lesson | Topic | Date | Slides | Notebooks & Code |
 |---------|-----------|------|--------|------------------|
 | **Lesson 1**  | Introduction | March 10, 2021 | [Link](https://drive.google.com/file/d/1PrZxICwa4Uj-dUEPZhd-3zOQNfyXmj03/view?usp=sharing) |  |
@@ -24,7 +24,7 @@ Here you find all the needed slides, notebooks, code and notes for the knowledge
 | **Lesson 16** | Seminar by Prof. McGuinness (DCU) | May 19, 2021 |  |  |
 |  | Seminar by Prof. Calderara (UNIMORE) | May 19, 2021 | |  |
 | **Lesson 17** | Seminar by Dr. Gliozzo (IBM Watson - New York) | May 21, 2021 | |  |
-
+-->
 
 
 
