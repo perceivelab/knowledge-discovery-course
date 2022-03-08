@@ -1,6 +1,14 @@
 [![logo](/imgs/logo.jpg)](http://www.dei.unict.it/corsi/lm-91)
 
-### Welcome to Knowledge Discovery Course 2021.
+### Welcome to Knowledge Discovery Course 2022.
+
+
+# Class schedule
+
+| :----------:    |
+| Wednesday 15-17    | 
+| Friday    15-17    | 
+
 
 
 ## NEWS
@@ -13,6 +21,12 @@
 - March 31, 2021 - HMW1 assigned, please check homework link.
 - The course officially started on March 10th 2021
 -->
+
+# ![](https://img.shields.io/badge/-7289DA?style=flat&logo=discord&logoColor=white) FORUM 
+{: #tag}
+During the course we will be using Discord for off-line communication. Discord channel is available at [link](https://discord.gg/wEWMusrE).
+
+
 ## STAFF
 
 Concetto Spampinato - *[mail](mailto:concetto.spampinato@unict.it)*
