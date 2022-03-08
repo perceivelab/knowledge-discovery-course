@@ -27,7 +27,7 @@
 During the course we will be using Discord for off-line communication. Discord channel is available at [link](https://discord.gg/wEWMusrE).
 
 
-# ROADMAP HOMEWORK
+# HOMEWORK ROADMAP 
 The (tentative) roadmap of the course homeworks is the following:
 
 | Homework | Topic              | Assignment    | Due          |
