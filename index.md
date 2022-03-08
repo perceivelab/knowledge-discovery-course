@@ -31,7 +31,7 @@ During the course we will be using Discord for off-line communication. Discord c
 
 Concetto Spampinato - *[mail](mailto:concetto.spampinato@unict.it)*
 
-Mattei Pennisi - *[mail](mailto:matteo.pennisi98@gmail.com)*
+Matteo Pennisi - *[mail](mailto:matteo.pennisi98@gmail.com)*
 
 
 
