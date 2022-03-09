@@ -8,7 +8,7 @@
 | Classes     |
 | :----------:    |
 | Wednesday 15-17    |
-| Friday 15-17    |
+| Friday 16-18    |
 
 
 
