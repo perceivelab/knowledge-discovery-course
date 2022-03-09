@@ -17,7 +17,7 @@
 - Mar 08, 2022 - The course will start on March 11th 2022.
 
 
-# ![](https://img.shields.io/badge/-7289DA?style=flat&logo=discord&logoColor=white) FORUM 
+## FORUM 
 During the course we will be using Discord for off-line communication. Discord channel is available at [link](https://discord.gg/wEWMusrE).
 
 
