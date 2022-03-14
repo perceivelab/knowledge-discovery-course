@@ -14,6 +14,8 @@
 
 ## NEWS
 
+- Mar 14, 2022 - Students are invited to create a personal github account (to save their homeworks). A guideline on how to use Github is available at[Link](https://drive.google.com/file/d/16NZEy-1Uo_gZGW-5ooNRh7EU6w-JA9vD/view?usp=sharing)
+- Mar 14, 2022 - There will not be class on Wednesday 16th March 2022. Next class is on Friday 18th March 2022
 - Mar 08, 2022 - The course will start on March 11th 2022.
 
 
