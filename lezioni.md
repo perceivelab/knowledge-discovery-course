@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Lessons
 Here you find all the needed slides, notebooks, code and notes for the knowledge discovery course.
 | Lesson | Topic | Date | Slides | Notebooks & Code |
