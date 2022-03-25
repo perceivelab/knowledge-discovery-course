@@ -14,7 +14,7 @@
 
 ## NEWS
 
-- Mar 25, 2022 - Reminder: today we will have the practical class. Le lesson starts at 3 pm until 6 pm. Do not forget to bring your own laptop.
+- Mar 25, 2022 - Reminder: today we will have the practical class. The lesson starts at 3 pm until 6 pm. Do not forget to bring your own laptop.
 - Mar 14, 2022 - Students are invited to create a personal github account (to save their homeworks). A guideline on how to use Github is available at [Link](https://drive.google.com/file/d/16NZEy-1Uo_gZGW-5ooNRh7EU6w-JA9vD/view?usp=sharing)
 - Mar 14, 2022 - There will not be class on Wednesday 16th March 2022. Next class is on Friday 18th March 2022
 - Mar 08, 2022 - The course will start on March 11th 2022.
