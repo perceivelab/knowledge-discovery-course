@@ -1,11 +1,6 @@
----
-layout: page
----
-
 # LESSONS
-Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del corso di web programming 2022.
-
-| Lezioni    | Argomento                                                       | Data            | Slides                          | Codice      |
+This page contains the slides, the notes and the code examples presented during classes.
+| Lesson    | Topic                                                       | Date            | Slides                          | Code      |
 |------------|-----------------------------------------------------------------|-----------------|-------------------------------  |-------------|
 | **Lesson 1**  | Introduction | March 11, 2022 | [Link](https://drive.google.com/file/d/1b5OUT_xffGM-cKRpR3Mvo_EEaSWIYOTG/view?usp=sharing) |  |
 |  | Overview of Modern AI |   | [Link](https://drive.google.com/file/d/15nhZ_-fMSGs6y6wFFNuHQJ6BH1o2uXXN/view?usp=sharing) |  |
