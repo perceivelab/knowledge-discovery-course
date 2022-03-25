@@ -1,9 +1,9 @@
 # LESSONS
 
-| Homework | Topic              | Assignment    | Due          |
-| :-------:| ------------------ | --------------- | -------          |
-| HW1      | CNN    | April 06, 2022 | April 20, 2022   |
-| HW2      | Recurrent Neural Networks | April 27, 2022 | May 06, 2022    |
-| HW3      | GANs/GCNN | May 6, 2022 | May 18, 2022    |
-| HW4      | Paper presentation | May 27, 2022 | June 8-10, 2022    |
-| Test      | Theory | May 27, 2022 | ---   |
+
+| Lesson | Topic              | Date    | Slides          | Notebooks and Code |
+| :-------:| ------------------ | --------------- | -------          | |
+| **Lesson 1**      | Introduction    | March 11, 2022 | [Link](https://drive.google.com/file/d/1b5OUT_xffGM-cKRpR3Mvo_EEaSWIYOTG/view?usp=sharing)   | |
+|      | Overview of Modern AI | |  [Link](https://drive.google.com/file/d/15nhZ_-fMSGs6y6wFFNuHQJ6BH1o2uXXN/view?usp=sharing)   ||
+| **Lesson 2**      |Neural Networks and Backpropagation| March 18, 2022 | [Link](https://drive.google.com/file/d/1EM67f-rsxXaloMWJ7VbpU4ZJ7HiQyjet/view?usp=sharing)     ||
+| **Lesson 3**      | Neural Networks Optimization | March 23, 2022 | [Link](https://drive.google.com/file/d/1W3jhlNNqAFmktfbaphS6V6eozQantJ7S/view?usp=sharing)    ||
