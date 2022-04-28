@@ -11,6 +11,5 @@
 | **Lessons 5-6**      | Convolutional Neural Networks | April 01-06, 2022 |     [Link](https://drive.google.com/file/d/1xGLJtvZCI4fOOzMlzkehv7x1fyJHwKq2/view?usp=sharing)||
 | **Lesson 7**      | Train a CNN with Pytorch | April 08, 2022 ||     [Link](https://colab.research.google.com/drive/1oCG6YEWqkuyx5AH5TzplpaGqIanQHVvE?usp=sharing)|
 | **Lesson 8**      | CNNs: Transfer Learning | April 13, 2022 |[Link](https://drive.google.com/file/d/1m1ihYx3-sNIRhnXNHVhpA4gCCIbFNnm2/view?usp=sharing)|[Link](https://colab.research.google.com/drive/1KVbZ7Gg7utB_ciaIWWmVqif4SjR8cqUY?usp=sharing) | |
-| **Lesson 9**      | Recurrent Neural Networks | April 27, 2022 |[Link](https://drive.google.com/file/d/1Pr3F66qtHf4PtYOcsXH36TvRjxkxEEqB/view?usp=sharing
-)|| |
+| **Lesson 9**      | Recurrent Neural Networks | April 27, 2022 |[Link](https://drive.google.com/file/d/1Pr3F66qtHf4PtYOcsXH36TvRjxkxEEqB/view?usp=sharing)| |
 
