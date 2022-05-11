@@ -13,7 +13,7 @@
 
 
 ## NEWS
-
+- May 11, 2022 - HW2 specs (check homework tab) have been released. The due date for it is May 29, 2022. 
 - Apr 08, 2022 - HW1 specs (check homework tab) have been released. The due date for it is April 22, 2022. 
 - Apr 08, 2022 - Reminder: today we will have the practical class. The lesson starts at 3 pm until 6 pm. Do not forget to bring your own laptop. Room: "Aula A"
 - Apr 08, 2022 - The slides for CNN topic have been updated. 
@@ -33,9 +33,8 @@ The (tentative) roadmap of the course homeworks is the following:
 | Homework | Topic              | Assignment    | Due          |
 | :-------:| ------------------ | --------------- | -------          |
 | **HW1**     | **CNN**    | **April 08, 2022** | **April 22, 2022**   |
-| HW2      | Recurrent Neural Networks | April 27, 2022 | May 06, 2022    |
-| HW3      | GANs/GCNN | May 6, 2022 | May 18, 2022    |
-| HW4      | Paper presentation | May 27, 2022 | June 8-10, 2022    |
+| **HW2**      | **Recurrent Neural Networks** | **May 11, 2022** | **May 29, 2022**    |
+| HW3      | GANs/GCNN | May 29, 2022 | June 11, 2022    |
 | Test      | Theory | May 27, 2022 | ---   |
 
 The already assigned HWs are in bold. 
