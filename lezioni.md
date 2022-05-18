@@ -15,6 +15,6 @@
 | **Lesson 10**      | RNN: Sentiment Analysis | April 29, 2022 ||     [Link](https://colab.research.google.com/drive/1IO01ds0BdL6LhA4_DVmAxGyvmIhEqkXE?usp=sharing)|
 | **Lesson 11**      | Music generation through LSTM  | May 04, 2022 ||     [Link](https://colab.research.google.com/drive/1_Gyi_dcQuAe6f7O-TqtrwLiJt1o7Vke8?usp=sharing)|
 | **Lesson 12**      | Generative Models  | May 06, 2022 |[Link](https://drive.google.com/file/d/1sXdVAT2N1gvu-sPXXAn23tJxOqZKMRP3/view?usp=sharing)|     |
-| **Lesson 13**      | Speech Generation through RNN  | May 11, 2022 ||     [Link]()|
-
+| **Lesson 13**      | Speech Generation through RNN  | May 11, 2022 ||     [Link](https://colab.research.google.com/drive/1xgCJ_E91yT_wi2cHF7zNbIL_seOyU6YE?usp=sharing)|
+| **Lesson 14**      | DCGAN  | May 18, 2022 ||     [Link](https://colab.research.google.com/drive/1k1qvs8rEVs3ZRdi08YAbv_Uhkr8B7SXm?usp=sharing)|
 
