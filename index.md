@@ -33,9 +33,9 @@ The (tentative) roadmap of the course homeworks is the following:
 | Homework | Topic              | Assignment    | Due          |
 | :-------:| ------------------ | --------------- | -------          |
 | **HW1**     | **CNN**    | **April 08, 2022** | **April 22, 2022**   |
-| **HW2**      | **Recurrent Neural Networks** | **May 11, 2022** | **May 29, 2022**    |
-| HW3      | GANs/GCNN | May 29, 2022 | June 11, 2022    |
-| Test      | Theory | May 27, 2022 | ---   |
+| **HW2**      | **Recurrent Neural Networks** | **May 11, 2022** | **June 05, 2022**    |
+| ~~HW3      | GANs/GCNN | May 29, 2022 | June 11, 2022    | ~~
+| Test      | Theory | June 16, 2022 | ---   |
 
 The already assigned HWs are in bold. 
 
