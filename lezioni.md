@@ -17,4 +17,6 @@
 | **Lesson 12**      | Generative Models  | May 06, 2022 |[Link](https://drive.google.com/file/d/1sXdVAT2N1gvu-sPXXAn23tJxOqZKMRP3/view?usp=sharing)|     |
 | **Lesson 13**      | Speech Generation through RNN  | May 11, 2022 ||     [Link](https://colab.research.google.com/drive/1xgCJ_E91yT_wi2cHF7zNbIL_seOyU6YE?usp=sharing)|
 | **Lesson 14**      | DCGAN  | May 18, 2022 ||     [Link](https://colab.research.google.com/drive/1k1qvs8rEVs3ZRdi08YAbv_Uhkr8B7SXm?usp=sharing)|
+| **Lesson 15**      | XAI  | May 20, 2022 |     [Link](https://drive.google.com/file/d/1cFA6l4FbVKWxD3ITZ16vQYCo87nIUY5K/view?usp=sharing)||
+| **Lesson 16**      | Captum  | May 25, 2022 | |     [Link](https://colab.research.google.com/drive/1ZPOlGxxxMB50HRzfvrXNKuaKzTtM-hlZ?usp=sharing)||
 
