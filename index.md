@@ -27,7 +27,7 @@ The (tentative) roadmap of the course homeworks is the following:
 | :-------:| ------------------ | --------------- | -------          |
 | **HW1**     | **CNN**    | **March 29, 2023** | **April 26, 2023**   |
 | **HW2**      | **GANs** | **April 26, 2023** | **May 16, 2023**    |
-| **Theory test **      | **Theory** | **May 26, 2022** | ---   |
+| **Theory test**      | **Theory** | **May 26, 2022** | ---   |
 
 
 # ASSESSMENT
