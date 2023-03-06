@@ -17,7 +17,7 @@
 
 
 ## FORUM 
-During the course we will be using Discord for off-line communication. Discord channel is available at [link]([https://discord.gg/wEWMusrE).
+During the course we will be using Discord for off-line communication. Discord channel is available at [link](https://discord.gg/wEWMusrE).
 
 
 # HOMEWORK ROADMAP 
