@@ -4,7 +4,7 @@
 | Lesson | Topic              | Date    | Slides          | Notebooks and Code |
 | :-------:| ------------------ | --------------- | :-------:           |:-------:  |
 | **Lesson 1**      | Introduction                                      | March 8, 2023                  |    | |
-                    | Neural Networks and Backpropagation               | March 8, 2023                  |    | |
+|                   | Neural Networks and Backpropagation               | March 8, 2023                  |    | |
 | **Lesson 2**      | Neural Networks Optimization                      | March 15, 2023                 |    | |
 | **Lesson 3**      | Introduction to PyTorch                           | March 17, 2023                 |    | |
 | **Lesson 4**      | Convolutional Neural Networks + Transfer learning | March 22, 2023                 |    | |
