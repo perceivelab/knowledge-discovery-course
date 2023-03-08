@@ -3,8 +3,9 @@
 
 | Lesson | Topic              | Date    | Slides          | Notebooks and Code |
 | :-------:| ------------------ | --------------- | :-------:           |:-------:  |
-| **Lesson 1**      | Introduction                                      | March 8, 2023                  |    | |
-|                   | Neural Networks and Backpropagation               | March 8, 2023                  |    | |
+| **Lesson 1**      | Introduction                                      | March 8, 2023                  |  [Link](https://drive.google.com/file/d/1KO56GMfFdWekOv7ia7ofc68d2ip1T21J/view?usp=sharing)  | |
+|                   | Overview of modern AI               | March 8, 2023                  |  [Link](https://drive.google.com/file/d/1F-lXawV6uQ3qJPjHPDG5RY72MMBvvx9o/view?usp=sharing)  | |
+|                   | Neural Networks and Backpropagation               | March 8, 2023                  |[Link](https://drive.google.com/file/d/1u_mL3CQLQu43NnTF4MA1GUws_JGUW6ay/view?usp=sharing)    | |
 | **Lesson 2**      | Neural Networks Optimization                      | March 15, 2023                 |    | |
 | **Lesson 3**      | Introduction to PyTorch                           | March 17, 2023                 |    | |
 | **Lesson 4**      | Convolutional Neural Networks + Transfer learning | March 22, 2023                 |    | |
