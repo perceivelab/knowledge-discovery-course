@@ -7,7 +7,7 @@
 |                   | Overview of modern AI               | March 8, 2023                  |  [Link](https://drive.google.com/file/d/1F-lXawV6uQ3qJPjHPDG5RY72MMBvvx9o/view?usp=sharing)  | |
 |                   | Neural Networks and Backpropagation               | March 8, 2023                  |[Link](https://drive.google.com/file/d/1u_mL3CQLQu43NnTF4MA1GUws_JGUW6ay/view?usp=sharing)    | |
 | **Lesson 2**      | Neural Networks Optimization                      | March 15, 2023                 |[Link](https://drive.google.com/file/d/1Yqebhlc64lxEao4tPVYPo7vSVDur5-tE/view?usp=sharing)    | |
-| **Lesson 3**      | Introduction to PyTorch                           | March 17, 2023                 |    | |
+| **Lesson 3**      | Introduction to PyTorch                           | March 17, 2023                 | | [Link](https://colab.research.google.com/drive/1OPpxOyfsLCUjCBtZBQWgGbyjpoIIGi1x?usp=sharing) | 
 | **Lesson 4**      | Convolutional Neural Networks + Transfer learning | March 22, 2023                 |    | |
 | **Lesson 5**      | Train a CNN with Pytorch                          | March 29, 2023                 |    | |
 | **Lesson 6**      | Explanaible AI                                    | March 31, 2023                 |    | | 
