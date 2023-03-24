@@ -53,7 +53,7 @@ The (tentative) roadmap of the course homeworks is the following:
 
 Concetto Spampinato - *[mail](mailto:concetto.spampinato@unict.it)*
 
-Matteo Pennisi - *[mail](mailto:matteo.pennisi98@gmail.com)*
+Giovanni Bellitto - *[mail](mailto:giovanni.bellitto@phd.unict.it)*
 
 
 
