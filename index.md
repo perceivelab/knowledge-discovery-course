@@ -13,7 +13,7 @@
 
 
 ## NEWS
-- Mar 30, 2022 - The deadline for the exercise assigned is postponed to next Friday, April 7th 2023.  The HW1 assigned is also postponed to the same date. The deadline has been updated accordingly.
+- Mar 30, 2022 - The due date for the exercise is postponed to next Friday, April 7th 2023.  The HW1 assignment is also postponed to the same date. The due date has been updated accordingly.
 - Mar 06, 2022 - The course will start on March 8th 2023.
 
 
