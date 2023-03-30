@@ -13,6 +13,7 @@
 
 
 ## NEWS
+- Mar 30, 2022 - The deadline for the exercise assigned is postponed to next Friday, April 7th 2023.  The HW1 assigned is also postponed to the same date. The deadline has been updated accordingly.
 - Mar 06, 2022 - The course will start on March 8th 2023.
 
 
@@ -25,8 +26,8 @@ The (tentative) roadmap of the course homeworks is the following:
 
 | Homework | Topic              | Assignment    | Due          | Submission |
 | :-------:| ------------------ | --------------- | -------          | --- | 
-| **Exercise**     | **CIFAR10**    | **March 24, 2023** | **March 31, 2023**   | [Link](https://docs.google.com/forms/d/e/1FAIpQLScSW8yJj26Zt8aqpVN4ssa89LtUq_plwtUEtFocjnTy66WM5Q/viewform?usp=pp_url) |
-| **HW1**     | **CNN**    | **March 29, 2023** | **April 26, 2023**   | --- |
+| **Exercise**     | **CIFAR10**    | **March 24, 2023** | **April 07, 2023**   | [Link](https://docs.google.com/forms/d/e/1FAIpQLScSW8yJj26Zt8aqpVN4ssa89LtUq_plwtUEtFocjnTy66WM5Q/viewform?usp=pp_url) |
+| **HW1**     | **CNN**    | **April 07, 2023** | **May 03, 2023**   | --- |
 | **HW2**      | **GANs** | **April 26, 2023** | **May 16, 2023**    | --- |
 | **Theory test**      | **Theory** | **May 26, 2022** | ---   | --- |
 
