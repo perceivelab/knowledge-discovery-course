@@ -11,7 +11,7 @@
 | **Lesson 4**      | Convolutional Neural Networks                     | March 22, 2023                 | [Link](https://drive.google.com/file/d/1tOrCD19t86WHVKtYuEXl3FEZWjPNsbn3/view?usp=sharing)    | |
 | **Lesson 5**      | Train a CNN with Pytorch                          | March 24, 2023                 |  | [Link](https://colab.research.google.com/drive/1JeTxrasXpxkXnCg4qa2fQtlJlyPHJki9?usp=sharing)  |
 | **Lesson 6**      | Advanced CNNs                                     | March 29, 2023                 | [Link](https://drive.google.com/file/d/18B9AJ1OXu39vFwwFtNtaNDJ0D6tzOu0l/view?usp=sharing)   | |
-| **Lesson 7**      | Explanaible AI                                    | March 31, 2023                 |    | | 
+| **Lesson 7**      | Explanaible AI                                    | March 31, 2023                 | [Link](https://drive.google.com/file/d/19k5mjhROmS32lCoFIWr-6NpQGYaM0kyU/view?usp=sharing)   | | 
 | **Lesson 8**      | CAPTUM                                            | April 05, 2023                 |    | |
 | **Lesson 9**      | Support to HW1                                    | April 19, 2023                 |    | |
 | **Lesson 10**      | Generative Models - part 1                        | April 21, 2023                 |    | |
