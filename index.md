@@ -13,8 +13,9 @@
 
 
 ## NEWS
-- Mar 30, 2022 - The due date for the exercise is postponed to next Friday, April 7th 2023.  The HW1 assignment is also postponed to the same date. The due date has been updated accordingly.
-- Mar 06, 2022 - The course will start on March 8th 2023.
+- Apr 06, 2023 - The Kaggle Competition for the HW1 is available [here](https://www.kaggle.com/t/6ceb4bdc67b4496090c6d83189437df0).
+- Mar 30, 2023 - The due date for the exercise is postponed to next Friday, April 7th 2023. The HW1 assignment is also postponed to the same date. The due date has been updated accordingly.
+- Mar 06, 2023 - The course will start on March 8th 2023.
 
 
 ## FORUM 
