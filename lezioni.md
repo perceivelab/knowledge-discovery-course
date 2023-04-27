@@ -15,7 +15,7 @@
 | **Lesson 8**      | CAPTUM                                            | April 05, 2023                 |    | [Link](https://colab.research.google.com/drive/16LqS432F3yTm7q1oW0-qD9xPZQdlB81C) |
 | **Lesson 9**      | Generative Models - VAE and GANs                        | April 19, 2023                 | [Link](https://drive.google.com/file/d/10MrcuOLBeABeHTS7ZVEev04pVJKly_LT/view?usp=sharing)   | |
 | **Lesson 10**      | Support to HW1                                    | April 19, 2023                 |    | |
-| **Lesson 11**     | Generative Models - Diffusion Models                        | April 26, 2023                 |    | |
+| **Lesson 11**     | Generative Models - Diffusion Models                        | April 26, 2023                 | [Link](https://drive.google.com/file/d/1R7m8K7xtVwiVrkj7NQg3UZWQ0fxaj0Si/view?usp=sharing)   | |
 | **Lesson 12**     | DCGAN                                             | April 28, 2023                 |    | |
 | **Lesson 13**     | Recurrent Neural Networks                         | May 03, 2023                   |    | |
 | **Lesson 14**     | Speech Generation through RNN                     | May 05, 2023                   |    | |
