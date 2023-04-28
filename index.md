@@ -13,6 +13,7 @@
 
 
 ## NEWS
+- Apr 28, 2023 - Procedure for homeworks' delivery: the deadline for completing the competition (HW1) is May 3rd, while the report for the homework and the can be submitted using github link on May 22nd. The same deadline holds for HW2. Please note that both homeworks should be discussed during the class of May 24th. A template for the powerpoint presentation will be shared in the next days. 
 - Apr 06, 2023 - The Kaggle Competition for the HW1 is available [here](https://www.kaggle.com/t/6ceb4bdc67b4496090c6d83189437df0).
 - Mar 30, 2023 - The due date for the exercise is postponed to next Friday, April 7th 2023. The HW1 assignment is also postponed to the same date. The due date has been updated accordingly.
 - Mar 06, 2023 - The course will start on March 8th 2023.
