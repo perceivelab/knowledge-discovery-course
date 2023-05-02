@@ -30,7 +30,7 @@ The (tentative) roadmap of the course homeworks is the following:
 | Homework | Topic              | Assignment    | Due          | Submission |
 | :-------:| ------------------ | --------------- | -------          | --- | 
 | **Exercise**     | **CIFAR10**    | **March 24, 2023** | **April 07, 2023**   | [Link](https://docs.google.com/forms/d/e/1FAIpQLScSW8yJj26Zt8aqpVN4ssa89LtUq_plwtUEtFocjnTy66WM5Q/viewform?usp=pp_url) |
-| **HW1**     | **CNN**    | **April 05, 2023** | **May ~03~ 10, 2023**   | --- |
+| **HW1**     | **CNN**    | **April 05, 2023** | **May 10, 2023**   | --- |
 | **HW2**      | **GANs** | **April 28, 2023** | **May 22, 2023**    | --- |
 | **Homework discussion**      | **Theory** | **May 24, 2022** | ---   | --- |
 | **Theory test**      | **Theory** | **May 26, 2022** | ---   | --- |
