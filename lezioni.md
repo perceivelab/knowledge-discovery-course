@@ -17,10 +17,10 @@
 | **Lesson 10**      | Support to HW1                                    | April 19, 2023                 |    | |
 | **Lesson 11**     | Generative Models - Diffusion Models                        | April 26, 2023                 | [Link](https://drive.google.com/file/d/1R7m8K7xtVwiVrkj7NQg3UZWQ0fxaj0Si/view?usp=sharing)   | |
 | **Lesson 12**     | DCGAN                                             | April 28, 2023                 |    | [Link](https://colab.research.google.com/drive/1vbu2D3auxnmnyrITSOPqXqOAEn71Ms5Y?usp=sharing)|
-| **Lesson 13**     | Recurrent Neural Networks                         | May 03, 2023                   |    | |
+| **Lesson 13**     | Recurrent Neural Networks                         | May 03, 2023                   | [Link](https://drive.google.com/file/d/1TCoAMR3L-yRewyykOuS2RlhmgD9Afq32/view?usp=sharing)   | |
 | **Lesson 14**     | Speech Generation through RNN                     | May 05, 2023                   |    | |
 | **Lesson 15**     | Transformers and ChatGPT                          | May 10, 2023                   |    | |
-| **Lesson 16**     | Homework presentation                             | May 19, 2023                   |    | |
+| **Lesson 16**     | Homework presentation                             | May 24, 2023                   |    | |
 | **Lesson 17**     | Theory test                                       | May 26, 2023                   |    | |
 
 
