@@ -19,6 +19,6 @@
 | **Lesson 12**     | DCGAN                                             | April 28, 2023                 |    | [Link](https://colab.research.google.com/drive/1vbu2D3auxnmnyrITSOPqXqOAEn71Ms5Y?usp=sharing)   |
 | **Lesson 13**     | Recurrent Neural Networks                         | May 03, 2023                   | [Link](https://drive.google.com/file/d/1TCoAMR3L-yRewyykOuS2RlhmgD9Afq32/view?usp=sharing)   | |
 | **Lesson 14**     | Speech Generation through RNN                     | May 05, 2023                   |    |  [Link](https://colab.research.google.com/drive/1mPvvx6PQe-G8uVRuI834LZpaOyQNK1lM?usp=sharing)  |
-| **Lesson 15**     | Transformers and ChatGPT                          | May 10, 2023                   |    | |
+| **Lesson 15**     | Transformers and ChatGPT                          | May 10, 2023                   | [Link](https://drive.google.com/file/d/1HFtQK9PKi_hT6zZ1Givqbw1tDi9Y4-6D/view?usp=sharing)   | |
 | **Lesson 16**     | Homework presentation                             | May 24, 2023                   |    | |
 | **Lesson 17**     | Theory test                                       | May 26, 2023                   |    | |
