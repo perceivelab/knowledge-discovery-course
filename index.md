@@ -15,7 +15,7 @@
 
 ## NEWS
 - **May 19, 2023 ** - The deadlines have been reorganized (in two rounds) after discussion with students. Check the roadmap section for details.
-The students are invited to fill in the following [form](https://docs.google.com/forms/d/e/1FAIpQLSfEm5-iI7-TS25VoIg2tLiTRM0-WOpGFIiw5bv4rRzNUVMhag/viewform?usp=sf_link) to select the proper round for their exams. Finally, all students who submit their homework are invited to fill in the following [file](https://docs.google.com/spreadsheets/d/1hxRHRtog3iDHaZX4nMfHXZ4TG94ywTMv45nxPyViM5o/edit?usp=sharing)
+The students are invited to fill in the following [form](https://docs.google.com/forms/d/e/1FAIpQLSfEm5-iI7-TS25VoIg2tLiTRM0-WOpGFIiw5bv4rRzNUVMhag/viewform?usp=sf_link) to select the proper round for their exams. Finally, upon homework delivery, students are invited to fill in the following [file](https://docs.google.com/spreadsheets/d/1hxRHRtog3iDHaZX4nMfHXZ4TG94ywTMv45nxPyViM5o/edit?usp=sharing).
 - May 02, 2023 - The HW1 deadline is extended to May 10th 2023. 
 - Apr 28, 2023 - Procedure for homeworks' delivery: the deadline for completing the competition (HW1) is May 3rd, while the report for the homework and the can be submitted using github link on May 22nd. The same deadline holds for HW2. Please note that both homeworks should be discussed during the class of May 24th. A template for the powerpoint presentation will be shared in the next days. 
 - Apr 06, 2023 - The Kaggle Competition for the HW1 is available [here](https://www.kaggle.com/t/6ceb4bdc67b4496090c6d83189437df0).
