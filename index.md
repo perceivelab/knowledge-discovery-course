@@ -14,6 +14,7 @@
 
 
 ## NEWS
+- **Jun 5, 2023** - The final marks (for Round 1) of the KD module are published at the [link](https://drive.google.com/file/d/1uFt3TxDXgvwvpL-V438F_xnfs_Pwnpkk/view?usp=sharing). Students who accept the marks are invited to send a discord message to obtain the mark for the total course (ML + KD).   
 - **May 19, 2023 ** - The deadlines have been reorganized (in two rounds) after discussion with students. Check the roadmap section for details.
 The students are invited to fill in the following [form](https://docs.google.com/forms/d/e/1FAIpQLSfEm5-iI7-TS25VoIg2tLiTRM0-WOpGFIiw5bv4rRzNUVMhag/viewform?usp=sf_link) to select the proper round for their exams. Finally, upon homework delivery, students are invited to fill in the following [file](https://docs.google.com/spreadsheets/d/1hxRHRtog3iDHaZX4nMfHXZ4TG94ywTMv45nxPyViM5o/edit?usp=sharing).
 - May 02, 2023 - The HW1 deadline is extended to May 10th 2023. 
